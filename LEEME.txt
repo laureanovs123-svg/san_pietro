@@ -1,0 +1,17 @@
+SAN PIETRO — SITIO WEB
+
+Archivos:
+- index.html: estructura y contenido.
+- styles.css: diseño responsive, colores, tipografías y animaciones.
+- script.js: menú móvil y año automático.
+
+Cómo verlo:
+1. Descomprimí la carpeta.
+2. Abrí index.html con Chrome, Edge o Firefox.
+3. Para publicarlo, subí los tres archivos a un hosting estático (por ejemplo, Netlify o GitHub Pages).
+
+Importante:
+- Las fotografías se cargan desde Unsplash mediante internet y son ilustrativas, no fotos oficiales de San Pietro.
+- El teléfono y la dirección se basan en los datos proporcionados.
+- Los horarios y la carta no se publicaron para evitar mostrar información que puede cambiar. Confirmalos con el restaurante antes de agregarlos.
+- La sección sin TACC recomienda consultar directamente por disponibilidad y protocolos actuales.
